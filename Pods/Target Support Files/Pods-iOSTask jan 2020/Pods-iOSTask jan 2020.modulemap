@@ -1,0 +1,6 @@
+framework module Pods_iOSTask_jan_2020 {
+  umbrella header "Pods-iOSTask jan 2020-umbrella.h"
+
+  export *
+  module * { export * }
+}
